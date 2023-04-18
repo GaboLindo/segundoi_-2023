@@ -1,14 +1,5 @@
-# segundoi_-2023
-Gabriel Jose 12
+LEGALIZAÇÃO DA MACONHA
 
-gravidez na adolescencia
+Alunos: Delaylla Cardim 06 // Leonardo Joaquim 21  
 
-inicio da sexualidade
-
-conscientização dos pais
-
-educaçao sexual
-
-responsabilidade afetiva
-
-criaçao em lar desestabilizado
+Vamos falar sobre a legalização da maconha.
