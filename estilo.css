@@ -1,15 +1,19 @@
 :root {
     --fundo: rgb(255, 255, 255);
     --letra: #000000;
-    --fundo-2: #ffffff;
+    --fundo-2: #fdfdfd;
     --corlegal: #ffffff;
     --verdeescu: rgb(240, 252, 245);
+   
+    
 }
 
-* {
-    margin: 5;
-    padding: 5;
+.cabeca-lista {
+    margin: 10;
+    padding: 10;
     box-sizing: border-box; 
+    color: #000000;
+    background-color: rgb(255, 255, 255);
 }
 
 .container {
@@ -25,10 +29,10 @@ body {
     overflow-x: hidden; 
     overflow-y: hidden;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
-    padding: 0;
-    margin: 0;
+    padding: 100;
+    margin: 100;
     height: 100%;
-   
+   background-color: aquamarine;
     
 }
 
@@ -111,6 +115,10 @@ body {
 }
 
 .minha-imagem {
-    height: auto;
-    max-width: 100%;
+    .image {
+        position: right: ;;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+      }
 }
