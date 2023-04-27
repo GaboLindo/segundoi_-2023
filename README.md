@@ -1,5 +1,5 @@
 LEGALIZAÇÃO DA MACONHA
 
-Alunos: Delaylla Cardim 06 // Leonardo Joaquim 21  
+Alunos: Gabriel 12 // Gustavdo Jacob
 
-Vamos falar sobre a legalização da maconha.
+site sobre o consumismo
